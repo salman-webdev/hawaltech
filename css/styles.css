@@ -88,7 +88,8 @@ i{
   font-family: "El Messiri", sans-serif;
   font-size: 1.75rem;
   font-weight: bold;
-  margin:0 6rem 0 1.5rem;
+  margin-right: 6rem;
+  margin-left: 1.5rem;
 }
 
 .nav-item{
