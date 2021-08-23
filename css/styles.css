@@ -94,6 +94,10 @@ i{
   margin-left: 1.5rem;
 }
 
+.collapse.show{
+  background-color: #ece3ad;
+}
+
 .nav-item{
   padding: 0 6px;
 }
