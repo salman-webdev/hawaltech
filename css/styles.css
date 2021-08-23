@@ -50,7 +50,7 @@ i{
 }
 
 .picture-section{
-  background-image: url(../images/hawaltech.jpg);
+  background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.3)), url(../images/hawaltech.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
